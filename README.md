@@ -13,3 +13,5 @@ Off-line:
 On-line:
 	- Draw the x, y, z axis and a cube on your image on real life using your webcam. 
 	- Press 'q' to exit the video.
+
+Video link: https://youtu.be/4m7QI2p8rMI
