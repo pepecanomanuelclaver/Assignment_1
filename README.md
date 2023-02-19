@@ -8,15 +8,14 @@ each of the runs can be done changing the path of a directory where the images o
 
 
 Off-line: 
-	- Calibrate geometrically your camera using the training images, choosing the correspoding
-        run (Run 1, Run 2, and Run 3) of interest.
-	- For the manual selection, press the points on the image which correspond to the 4 corners
+	Calibrate geometrically your camera using the training images, choosing the correspoding
+        run (Run 1, Run 2, and Run 3) of interest. For the manual selection, press the points on the image which correspond to the 4 corners
 	and press 'q' to show the obtained interpolation. You can use both right or left click.
 
 
 On-line:
-	- Draw the x, y, z axis and a cube on your image on real life using your webcam. 
-	- Press 'q' to exit the video.
+	Draw the x, y, z axis and a cube on your image on real life using your webcam. 
+	Press 'q' to exit the video.
 
 
 
